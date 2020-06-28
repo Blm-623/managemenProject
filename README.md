@@ -1,19 +1,6 @@
 # vue_shop
 
-## Project setup
-```
-npm install
-```
+ ## 后台管理系统
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### 今天完成了curd
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
